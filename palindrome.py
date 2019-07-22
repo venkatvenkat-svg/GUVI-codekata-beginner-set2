@@ -1,4 +1,5 @@
-num=int(input())
+num=input()
+num=int(num)
 rev=0
 temp=num
 while(num<=1000):
