@@ -1,7 +1,6 @@
 import math
 n=int(input())
 if(n<=100000):#setiing the limit of the input to 1 lakh
-    {
     temp=n
     dc=0
     sum=0
@@ -17,6 +16,5 @@ if(n<=100000):#setiing the limit of the input to 1 lakh
         print("yes")
     else:
         print("no")
-    }
 else:
     print(no)
